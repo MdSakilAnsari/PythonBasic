@@ -1,0 +1,6 @@
+qten=int(input("Enter quantity of 10 rupees coins "))
+qfive=int(input("Enter quantity of 5 rupees coins "))
+qtwo=int(input("Enter quantity of 2 rupees coins "))
+qone=int(input("Enter quantity of 1 rupees coins "))
+sum=(qten*10)+(qfive*5)+(qtwo*2)+(qone*1)
+print('Sum of all coins',str(sum))

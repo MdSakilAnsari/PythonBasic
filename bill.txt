@@ -1,0 +1,23 @@
+Customer Name : sakil
+Customer Id : 11
+Address : lpu
+Consumed unit : 123
+Payable amount : 553.5Customer
+
+Name : sanu
+Customer Id : 123
+Address : lpu
+Consumed unit : 89
+Payable amount : 551.8000000000001
+
+Customer Name : joshi
+Customer Id : 987
+Address : Lovapur
+Consumed unit : 345
+Payable amount : 1552.5
+
+Customer Name : Rohit
+Customer Id : 1189
+Address : Phagwara
+Consumed unit : 99
+Payable amount : 613.8000000000001
